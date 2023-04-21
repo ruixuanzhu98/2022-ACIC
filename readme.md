@@ -34,7 +34,7 @@ Introduction:
 
 ![plot6-10](https://user-images.githubusercontent.com/110237197/233748430-a7ba5f47-8402-4d89-b1fa-a25f82453362.jpeg =250x250)
 
-<img src="https://user-images.githubusercontent.com/110237197/233748430-a7ba5f47-8402-4d89-b1fa-a25f82453362.jpeg" width=100% height=50%>
+<img src="https://user-images.githubusercontent.com/110237197/233748430-a7ba5f47-8402-4d89-b1fa-a25f82453362.jpeg" width=70% height=50%>
 
 **Comparison of BART, Bayesian Causal Forest(BCF), and Double Machine Learning(DML) regarding uncertainty interval coverage rate**:
 
