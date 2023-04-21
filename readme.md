@@ -32,16 +32,14 @@ Introduction:
 ---
 **Comparison of BART, Bayesian Causal Forest(BCF), and Double Machine Learning(DML) regarding RMSE**:
 
-![plot6-10](https://user-images.githubusercontent.com/110237197/233748430-a7ba5f47-8402-4d89-b1fa-a25f82453362.jpeg =250x250)
-
 <img src="https://user-images.githubusercontent.com/110237197/233748430-a7ba5f47-8402-4d89-b1fa-a25f82453362.jpeg" width=70% height=50%>
 
 **Comparison of BART, Bayesian Causal Forest(BCF), and Double Machine Learning(DML) regarding uncertainty interval coverage rate**:
 
-
-![plot6-11](https://user-images.githubusercontent.com/110237197/233748253-aad76bfd-16e7-4dca-8e91-9fada30aa084.jpeg)
+<img src="https://user-images.githubusercontent.com/110237197/233748253-aad76bfd-16e7-4dca-8e91-9fada30aa084.jpeg" width=70% height=50%>
 
 **Figure that shows treatment effect heterogeneity**:
 
-![plot6-13](https://user-images.githubusercontent.com/110237197/233748358-f7ab8f16-fb21-4ff0-a820-b6c3fbf21b8c.jpeg)
+<img src="https://user-images.githubusercontent.com/110237197/233748358-f7ab8f16-fb21-4ff0-a820-b6c3fbf21b8c.jpeg" width=70% height=50%>
+
 
